@@ -23,13 +23,17 @@ export default function About() {
               <div className="relative w-48 h-48 mx-auto">
                 <div className="absolute inset-0 rounded-full bg-gradient-to-r from-blue-500 to-purple-600 animate-pulse"></div>
                 <div className="absolute inset-1 rounded-full bg-gray-900 flex items-center justify-center">
-                  <Image
-                    src="/placeholder.svg?height=180&width=180"
+                <Image
+                    src="/profile.png"
                     alt="Lakshya Betala"
                     width={180}
                     height={180}
                     className="rounded-full"
+                    priority
+                    placeholder="blur"
+                    blurDataURL="/profile.png"
                   />
+
                 </div>
               </div>
             </div>
