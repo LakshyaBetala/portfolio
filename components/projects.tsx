@@ -9,7 +9,7 @@ const projects = [
   {
     title: "SAARTHI – BHARAT",
     description: "Real-time AI voice assistant with object detection and emotion analysis capabilities.",
-    image: "/placeholder.svg?height=300&width=500",
+    image: "public\saarthi_logo.png?height=300&width=500",
     link: "#",
   },
   {

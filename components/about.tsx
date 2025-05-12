@@ -24,7 +24,7 @@ export default function About() {
                 <div className="absolute inset-0 rounded-full bg-gradient-to-r from-blue-500 to-purple-600 animate-pulse"></div>
                 <div className="absolute inset-1 rounded-full bg-gray-900 flex items-center justify-center">
                 <Image
-                    src="/profile.png"
+                    src="public\profile.png"
                     alt="Lakshya Betala"
                     width={180}
                     height={180}
@@ -48,14 +48,14 @@ export default function About() {
               <div className="flex flex-col sm:flex-row gap-4 items-start sm:items-center">
                 <div className="flex items-center">
                   <div className="w-10 h-10 rounded-full bg-blue-900/50 flex items-center justify-center mr-3">
-                    <Image src="/placeholder.svg?height=32&width=32" alt="SRMIST" width={32} height={32} />
+                    <Image src="public\srmist_logo.png" alt="SRMIST" width={32} height={32} />
                   </div>
                   <span className="text-gray-200">B.Tech CSE at SRMIST | 9.65 CGPA</span>
                 </div>
 
                 <div className="flex items-center">
                   <div className="w-10 h-10 rounded-full bg-blue-900/50 flex items-center justify-center mr-3">
-                    <Image src="/placeholder.svg?height=32&width=32" alt="Samsung" width={32} height={32} />
+                    <Image src="public\samsung_prism.png" alt="Samsung" width={32} height={32} />
                   </div>
                   <span className="text-gray-200">Intern @ Samsung R&D</span>
                 </div>

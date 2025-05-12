@@ -10,7 +10,7 @@ const extracurriculars = [
     icon: <Gamepad className="h-6 w-6" />,
   },
   {
-    title: "Head – Networking Nexus",
+    title: "Head of Operations – Networking Nexus",
     description: "Led a team of students focused on networking technologies and innovations.",
     icon: <Network className="h-6 w-6" />,
   },

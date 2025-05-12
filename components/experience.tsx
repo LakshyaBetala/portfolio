@@ -8,7 +8,7 @@ const experiences = [
     company: "Samsung R&D",
     position: "AI Intern",
     period: "Feb 2025 – Ongoing",
-    description: "Working on Speech-to-Respiration signal models and AI-based health solutions.",
+    description: "Working on Soltuion related to samsung health and ai services",
     location: "Bangalore, India",
   },
 ]
